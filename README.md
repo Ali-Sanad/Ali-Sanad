@@ -13,17 +13,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div align="center" >
+<div align="left" >
 	<h1> ʜᴇʟʟᴏ ᴛʜᴇʀᴇ 👋, ɪ'ᴍ Ali </h1>
 	<h2>A Full Stack Engineer</h2>
 	<img src="https://komarev.com/ghpvc/?username=Ali-Sanad&label=Profile%20views&color=0e75b6&style=flat" alt="Ali-Sanad"/>    
 </div>
 
-<div align="center">	
+<div align="left">	
 <img  alt="Ali Sanad's github stats" src="https://github-readme-stats.vercel.app/api?username=Ali-Sanad&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"> 
 </div>
 <br/>
-<div align="center">	
+<div align="left">	
 	
 <img  src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Ali-Sanad&hide_langs_below=.25&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515&layout=compact">     
 
@@ -33,8 +33,8 @@ Here are some ideas to get you started:
 <br/>
 
 
-<h2 align="center">Connect :mailbox_with_mail:</h2>
-<div align="center">
+<h2 align="left">Connect :mailbox_with_mail:</h2>
+<div align="left">
 
 [![Gmail Badge](https://img.shields.io/badge/-alisanad099@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alisanad099@gmail.com)](mailto:alisanad099@gmail.com) 
 <a href="https://www.linkedin.com/in/ali-sanad" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
