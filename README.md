@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 -->
 <div align="center" >
 	<h1> ʜᴇʟʟᴏ ᴛʜᴇʀᴇ 👋, ɪ'ᴍ Ali </h1>
-	<h2>A Full Stack Engineer</h2>
   
 </div>
 
