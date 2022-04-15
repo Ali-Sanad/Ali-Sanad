@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 
 </p>
 
-| <a href="https://github.com/Ali-Sanad/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Ali-Sanad&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Ali's github stats" /></a> | <a href="https://github.com/Ali-Sanad/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ali-Sanad&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/Ali-Sanad#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Ali-Sanad&show_icons=true&theme=buefy&hide_border=true" alt="Ali's github stats" /></a> | <a href="https://github.com/Ali-Sanad#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ali-Sanad&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 **Languages and Tools:**  
