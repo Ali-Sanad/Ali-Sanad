@@ -28,8 +28,8 @@ Here are some ideas to get you started:
   </a>
   
   
-  <a href="http://twitter.com/alisanad007">
-    <img src="https://img.shields.io/twitter/follow/alisanad007?label=Twitter&logo=twitter&style=for-the-badge" />
+  <a href="http://twitter.com/iamalisanad">
+    <img src="https://img.shields.io/twitter/follow/iamalisanad?label=Twitter&logo=twitter&style=for-the-badge" />
   </a>
  
 
