@@ -38,7 +38,7 @@ Here are some ideas to get you started:
   </a>
   
     <a href="https://www.buymeacoffee.com/alisanad/">
-    <img  src="https://img.shields.io/badge/-buy_me_a%C2%A0coffee-gray?logo=buy-me-a-coffee" alt="Buy Me Coffe" />
+    <img  src="https://img.shields.io/badge/-buy_me_a%C2%A0coffee-gray?logo=buy-me-a-coffee&style=for-the-badge" alt="Buy Me Coffe" />
   </a>
   
 
