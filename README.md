@@ -22,10 +22,14 @@ Here are some ideas to get you started:
   <a href="https://github.com/Ali-Sanad">
     	<img height="28px" src="https://komarev.com/ghpvc/?username=Ali-Sanad&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Ali-Sanad"/> 
   </a>
-  
+		<a href="https://www.buymeacoffee.com/alisanad">
+    <img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" height="29px" />
+  </a>
    <a href="https://github.com/Ali-Sanad?tab=followers">
     <img src="https://img.shields.io/github/followers/Ali-Sanad?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
   </a>
+
+
   
   
   <a href="http://twitter.com/iamalisanad">
@@ -33,14 +37,11 @@ Here are some ideas to get you started:
   </a>
  
 
-   <a href="https://www.linkedin.com/in/ali-sanad/">
+   <a href="https://www.linkedin.com/in/ali-sanad">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  
-    <a href="https://www.buymeacoffee.com/alisanad/">
-    <img  src="https://img.shields.io/badge/-buy_me_a%C2%A0coffee-gray?logo=buy-me-a-coffee&style=for-the-badge" alt="Buy Me Coffe" />
-  </a>
-  
+
+    
 
 </p>
 
