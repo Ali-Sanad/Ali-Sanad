@@ -43,6 +43,9 @@ Here are some ideas to get you started:
 	   <a href="mailto:alisanad.dev@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 	    </a>
+	      <a href="https://leetcode.com/alisanad/">
+    <img src="https://assets.leetcode.com/static_assets/public/webpack_bundles/images/logo-dark.e99485d9b.svg" height="25px" />
+  </a>
 
 
 </p>
