@@ -18,7 +18,7 @@ Here are some ideas to get you started:
   
 </div>
 
-<p align="center">
+<div align="center">
   <a href="https://github.com/Ali-Sanad">
     	<img height="28px" src="https://komarev.com/ghpvc/?username=Ali-Sanad&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Ali-Sanad"/> 
   </a>
@@ -44,11 +44,11 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 	    </a>
 	      <a href="https://leetcode.com/alisanad/">
-    <img src="https://assets.leetcode.com/static_assets/public/webpack_bundles/images/logo-dark.e99485d9b.svg" height="25px" />
+    <img src="https://assets.leetcode.com/static_assets/public/webpack_bundles/images/logo-dark.e99485d9b.svg" height="30px" width="60px" style="object-fit:contain" />
   </a>
 
 
-</p>
+</div>
 
 | <a href="https://github.com/Ali-Sanad#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Ali-Sanad&show_icons=true&theme=buefy&hide_border=true" alt="Ali's github stats" /></a> | <a href="https://github.com/Ali-Sanad#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ali-Sanad&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
