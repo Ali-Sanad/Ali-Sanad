@@ -24,10 +24,10 @@ Here are some ideas to get you started:
   </a>
 		<a href="https://www.buymeacoffee.com/alisanad">
     <img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" height="29px" />
-  </a>
+<!--  </a>
    <a href="https://github.com/Ali-Sanad?tab=followers">
     <img src="https://img.shields.io/github/followers/Ali-Sanad?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
-  </a>
+  </a> -->
 
 
   
@@ -44,7 +44,7 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 	    </a>
 	      <a href="https://leetcode.com/alisanad/">
-    <img src="https://assets.leetcode.com/static_assets/public/webpack_bundles/images/logo-dark.e99485d9b.svg" height="30px" width="60px" style="object-fit:contain" />
+    <img src="https://assets.leetcode.com/static_assets/public/webpack_bundles/images/logo-dark.e99485d9b.svg" height="25px"  />
   </a>
 
 
