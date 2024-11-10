@@ -13,10 +13,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!-- 
 <div align="center" >
-	<h1> ʜᴇʟʟᴏ ᴛʜᴇʀᴇ 👋, ɪ'ᴍ Ali </h1>
-  
+	<h1> Hey 👋 I'm Ali Sanad, a Frontend Software Engineer 🌟⚛️</h1>
 </div>
+-->
+
 
 <div align="center">
   <a href="https://github.com/Ali-Sanad">
